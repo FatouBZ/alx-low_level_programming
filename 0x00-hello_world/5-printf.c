@@ -1,4 +1,5 @@
-#include <stdio.h> /**
+#include <stdio.h>
+/**
 * main - 5-printf.c
 * description - Write a C program that prints exactly with proper grammar,
 *
