@@ -1,6 +1,8 @@
 #include <main.h>
 /**
-*program that prints _putchar
+* main - print _putchar 
+* is written by Fatou
+*Return: 0
 */
 int main(void)
 {
@@ -15,4 +17,3 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
-
