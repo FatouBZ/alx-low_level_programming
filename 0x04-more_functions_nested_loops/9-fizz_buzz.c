@@ -1,4 +1,9 @@
+#include "main.h"
 #include <stdio.h>
+/**
+*main - Prints a Fizz Buzz program
+*Return: Always 0 (Success)
+*/
 int main(void)
 {
 int i;
