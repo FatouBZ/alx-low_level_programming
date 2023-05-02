@@ -16,7 +16,7 @@ else
 {
 num = n;
 }
-if (num/10)
+if (num / 10)
 {
 print_number(num / 10);
 }
