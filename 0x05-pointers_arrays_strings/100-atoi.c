@@ -13,7 +13,7 @@ int min = 1;
 int isi = 0;
 while (s[c])
 {
-if (s[c])
+if (s[c] == 45)
 {
 min *= -1;
 }
